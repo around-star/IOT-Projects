@@ -13,7 +13,7 @@
 - Description : The lid of the dustbin opens automatically when someone approaches to throw in something. 
 7. Automatic Street Lighting. 
 - Hardware : Ldr, led. 
-- Description : street lamp turns on automatically after dusk 🌆. 
+- Description : street lamp turns on automatically after dusk. 
 8. Automatic Street Lighting 2
 - Hardware : pir motion sensor, leds
 - Description : street lamp turns on automtically on sensing movement of cars.
